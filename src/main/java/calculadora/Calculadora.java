@@ -28,6 +28,12 @@ public class Calculadora {
     }
     private int operador1;
     private int operador2;
+    /**
+     * 
+     * @param a primer parámetro
+     * @param b segundo parámetro
+     * @return retorna el valor de la suma
+     */
     private int operacion(int a, int b){
         operador1=a;
         operador2=b;
