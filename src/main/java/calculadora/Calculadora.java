@@ -25,7 +25,7 @@ public class Calculadora {
 
     public void setOperador2(int operador2) {
         this.operador2 = operador2;
-    }
+    } 
     private int operador1;
     private int operador2;
     private int operador(int a, int b){
